@@ -1,0 +1,39 @@
+.rowfooter{   
+    background-color:black;
+    color: white;
+    font-size:22px;
+    font-family: 'Chonburi', cursive;
+    display: flex;
+    justify-content: space-between;
+    padding: 40px;
+}
+.headshot{
+    width:200px;
+    height: 200px;
+   
+}
+.mid{
+    background-color:silver;
+    padding: 5px;
+    color:black;
+    font-size:40px;
+    margin-top:5px;
+    margin-bottom:5px;
+    font-family: 'Forum', cursive;
+    display: flex;
+    justify-content: center;
+}
+.aboutme{
+    border: 2px solid black;   
+}
+
+#pic{
+    width: 100%;
+}
+.rowcontact{   
+    background-color:black;
+    color: white;
+    font-size:22px;
+    font-family: 'Chonburi', cursive;
+    padding: 5px;
+}
