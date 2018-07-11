@@ -10,7 +10,8 @@
 .headshot{
     width:200px;
     height: 200px;
-   
+    border-radius: 50%;
+    padding: 15px;
 }
 .mid{
     background-color:silver;
@@ -36,4 +37,35 @@
     font-size:22px;
     font-family: 'Chonburi', cursive;
     padding: 5px;
+}
+.color{
+    color: white;
+    
+}
+
+.cosas{
+    width: 70px;
+    height: auto;
+}
+
+.this{
+    text-align: center;
+    font-weight: bold;
+    font-size: 25px;
+    padding: 7px;
+    margin: 7px;
+    padding-bottom: 7px;
+    font-family: 'Ubuntu', sans-serif;
+    color: grey;
+}
+#the{
+    font-weight: 100;
+    font-size: 40px;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+.hi{
+    font-weight: bold;
+    font-size: 20px;
+    font-family: 'Fjalla One', sans-serif;
 }
