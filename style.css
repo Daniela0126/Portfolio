@@ -69,3 +69,8 @@
     font-size: 20px;
     font-family: 'Fjalla One', sans-serif;
 }
+
+.image{
+    width: 50%;
+    padding-left: 25%;
+}
